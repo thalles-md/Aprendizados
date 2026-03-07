@@ -3,7 +3,7 @@
 a = int(input("Qual o primeiro número? "))
 b = int(input("Qual o segundo número? "))
 # Tá, vamos lá:
-# O quê é a multiplicação? Apenas a soma sucessiva n vezes.
+# O quê é a multiplicação? Apenas a soma sucessiva 'n' vezes.
 # Eu quero multiplicar `a` por `b`, ou seja, somar "a" "b" vezes.
 # Ok, esse é o primeiro mais complicadinho aqui.
 

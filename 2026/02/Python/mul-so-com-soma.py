@@ -1,7 +1,7 @@
 # Multiplicação
 # Apenas com adição ou subtração.
-a = int(input("Qual o primeiro número? "))
-b = int(input("Qual o segundo número? "))
+# a = int(input("Qual o primeiro número? "))
+# b = int(input("Qual o segundo número? "))
 # Tá, vamos lá:
 # O quê é a multiplicação? Apenas a soma sucessiva n vezes.
 # Eu quero multiplicar `a` por `b`, ou seja, somar "a" "b" vezes.
@@ -25,6 +25,9 @@ b = int(input("Qual o segundo número? "))
 # Eu quero, dado dois números "a" e "b", somar "a" com ele mesmo "b" vezes.
 # Então, enquanto eu não somar (com um somador) o número "b" vezes, eu somo + 1 até 
 # Até chegar em "b"
+
+a = int(input("Qual o primeiro número? "))
+b = int(input("Qual o segundo número? "))
 
 somador = 0
 valor = 0
